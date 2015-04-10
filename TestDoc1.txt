@@ -1,5 +1,2 @@
 This is test document 1.
-Changed by secondBranch.
-Change in firstBranch.
-Someone add the changes.
-And I've added some changes and now want to push on origin secondBranch.
+
